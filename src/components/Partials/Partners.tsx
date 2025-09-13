@@ -3,7 +3,6 @@ import silestone from "/img/ProductPartners/silestone-logo.png";
 import caesarstone from "/img/ProductPartners/caesarstone-logo.png";
 import dektone from "/img/ProductPartners/dekton-logo.png";
 import hanstone from "/img/ProductPartners/hanstone.png";
-import florim from "/img/ProductPartners/florim.png";
 import { Container, Row, Col, Image } from "react-bootstrap";
 
 const Partners = () => {
